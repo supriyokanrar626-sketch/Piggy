@@ -1,2 +1,2 @@
-
+Adam is a Optimizer..
 ReLU is a activation function..
